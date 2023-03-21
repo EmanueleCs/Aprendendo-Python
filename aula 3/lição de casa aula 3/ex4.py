@@ -1,0 +1,6 @@
+print("Digite 4 notas bimestrais:")
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+print("Esta é a sua média:",(a+b+c+d)/4)
